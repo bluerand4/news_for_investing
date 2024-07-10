@@ -1,0 +1,5 @@
+pip install selenium undetected-chromedriver webdriver-manager pandas fake-useragent requests
+pip install moviepy yfinance sec-api==1.0.17 sec-edgar-downloader==5.0.2 newsapi-python==0.2.7 tiktoken==0.5.1 pymongo==4.6.0
+pip install google-api-python-client google-auth-oauthlib google-cloud-translate pytz gTTS openai
+pip install boto3
+pip install google-cloud-vision
