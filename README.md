@@ -83,9 +83,14 @@ Run the scripts in the order mentioned to update data, fetch prices, save report
     python run_pro2.py
     python run_youtube.py
 
+# example website:
+
+    https://www.youtube.com/@user-me9ns6tw2s
+
 # Contributing
 
 Contributions are welcome! Please create a pull request with detailed information on your changes.
-License
+
+# License
 
 This project is licensed under the MIT License.
